@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(243, 198, 253);
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(115, 28, 142);
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(195, 40, 243);
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+p {
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(242, 212, 242);
+height: 55px;
+width: 100px;
+}
